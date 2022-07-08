@@ -1,0 +1,1276 @@
+/*
+https://leetcode.com/problem-list/top-interview-questions/
+https://leetcode.com/problem-list/top-google-questions/
+https://leetcode.com/problem-list/top-microsoft-questions/
+https://leetcode.com/explore/featured/card/heap/643/heap/
+https://leetcode.com/explore/featured/card/recursion-i/
+https://leetcode.com/explore/featured/card/graph/
+https://leetcode.com/explore/featured/card/recursion-i/
+*/
+
+
+
+
+
+
+
+
+
+
+
+About myself,
+
+	I am Mohan, I am currenly working as a senior software developer in Ansio technologies.
+
+	I have experenice as a full stack web app developer, I like working with all layers of the stack. 
+
+	My passion for technology started after seeing my father at work since then its computer all in my life. I graduated engineering from a renowned college in India.
+
+	I started as Software programmwe in Cognization in 2011. In Cognizate, I have had experience in various verticals and in various technologies. primiary experiences were around building user friendly efficient web apps.
+
+
+	My passion for technologies drives me to start a technology providing start up named "WeaveLogic Technologies" where myself and my collegues provided technology solutions to business. In Weavelogic Technologies, I have had experience in proposals, business conversion as well as in technologies. My experience in WeaveLogic made be a good decision maker and lead.
+`	
+	The current entity Ansio was one of my customer and I was managing all their ecommerce platform. The trust and ablity in us made then to invest on us and since then we are working as part of Ansio owning serveral SaaS platform across verticals.
+
+	I am currently leading the modernization of the infrastucture. this includes componentizing existing functionalities to microservices and upgrading the framework to latest technology trends.
+
+	In my initial years with Ansio technologies, I was leading 2 SaaS based products which was built and running under the framework which I built in WeaveLogic Technologies.
+
+	In last year or so I am looking after the mordernization of the infrastructure.
+
+	The technology stack includes .net/nodejs for building out APIs and angular/react for front ends. 
+
+	I believe my experience and passion would make me a great asset to your company.
+
+---------------------------------------------------------------------------------------
+	
+	I currently own the core meta data driven framework. It powers multiple SaaS product with each product having its own set of customers. 
+
+	I lead a team of 15 people who looks after the core development activities of the framework. I am responsible for the modernization of the infrastructure.
+
+	I will be part of refinement session of each product to access the feasibility. In case if the new feature is not inline with the existing code 
+
+
+---------------------------------------------------------------------------------------
+
+Tell me about a time when you trained a new hire.
+	
+	In my last engagement, When I started, the devlopment team were around 15-20. Now its around 70. for initial 15-20 new hires, we conducted training sessions in teams and recorded the video and posted it in training documents for new comers but it doesn't workout effectively as developers were coming up with more clarifications during implementations.
+
+	So we thought of engaging them with hands-on experience with a real world case studies would give then expericen in implementation.
+
+	We built out 4 case studies which were sub set of existing product which we had already developed.
+
+	We have seperate end points to do these case-studies. for each and every new set of hires, we have code to reset the application and we have clear set of tasks which we will be assigning it to the new hires. 
+
+	the case studies lasts 14 days and we monitor their work once in 3 days.
+
+	1. Learning Management System
+	2. Customer Relationship Management System
+	3. Project Management System
+	4. Sales and Inventory Management Syste,
+
+
+
+Tell me about a time when you retrained someone who was struggling in their job.
+	
+
+
+Tell me about a time when you mentored a coworker successfully.
+	
+
+
+Tell me when you trained a superior.
+		
+	It happens. when we are working in a full stack, we would have received the knowledge the senior person. full stacks is all about gaining the latest knowledge in each stack. there are time I trained my seniors on the RND I made.
+
+
+Tell me about a time when you mentored coworker but failed to help them improve.
+
+Tell me about a time when you delegated a task for developmental reasons.
+
+Tell me about a time when you brought in an outside expert to train your team.
+	
+	We hired a trainer to train new comers as the company is fast growing. We made case stuides in Learning Management System and a Basic CRM with basic sets of requirements.
+
+	
+
+Tell me about a time when you taught a group in a seminar.
+
+	When we merge into Ansio, Since Ansio was impressed with our architecture on the delivery, they insisted us to convert their legacy PHP code written in laravel framework where they have stopped supporting their legacy code and their existing employees were asked to train to migrate their code to our framwork.
+
+	It was time where I seminared more than 20. Also I gave seminar on the framework the new batches as well in my initial days where we don't have material and case studies.
+
+Tell me about a time when you utilized interactive training techniques.
+
+
+
+Tell me about a time when you overcame disruptive behavior from a seminar participant.
+	happended when we collaborated with the new team and we were guiding on the our meta data driven framework. this framework has to replace their legacy coding practice and they went arguing about the stablity and mentioned about the dependencies that will come.
+
+	handled: I explained the importance of the framework and what issues legacy code will have and how major ERP providing similar architecture.
+
+
+Tell me about the greatest training challenge you have faced.
+--people wanted to work mode on the code and not focusing on the drag and drop and mapping kinds
+
+
+Tell me about a time you had to train a group on a topic you were not an expert in.
+
+Tell me about a time when you implemented new technology to facilitate training.
+	
+	Migrated from C# .Net, Native Android Java and iOS shift to react and react native and gave training on the same.
+	
+
+Tell me about a time when you identified a training need in an organization that had been unmet.
+	
+	Yes we do a agri based SAAS product and I was leading the team. The problem with Agri based product is there are standard which we can refer. 
+
+	In WeaveLogic, We had one UI/UX Designer partners to whom we share our design related works. I used to visit their office atleast twice in a week. there will be classes on User Reasearch which I voluntarily attend and I used to learn how the do ground research on the product by gathering user interviews.
+
+	I did the same. I reached out a local argi society with reference and with the same reference I connected around 5 agri societies and gathered knowledge on how the procurements and inspections are conduted.
+
+	I requested the product manager and stake holders for the need of ground level case study documentation for the team to design a better system.
+
+
+Tell me about a time when the training you delivered resulted in significant bottom line results in the organization.
+	
+	Ansio was retail company and vision was to their in technology too. the trade and marketplace platform we did was a moderate success where they can handle all operation cost with an increased team.
+	
+
+Tell me how you would train me to do… (insert a common task or topic in your industry)
+	
+
+	
+
+
+Reverse Engineering Questions:
+1.Talk me something that held you back.
+2.Talk me through one of your flaws.
+3.Can you give me a concrete example of where you working too hard hurt you in someway or taken away the team in someway.
+4.a the biggest success they did the best
+	the framework which I built is currently support multiple SaaS products.
+4.b what doesn't go well in that.
+	I went along with the technology I known best for implementing the framework but after few years of enhancement stuggles, we found the best was to go ahead with the cross platform.
+
+	
+
+
+
+
+What do you consider your biggest weakness?
+	One of my weakness is I find very difficult saying "no". Most of the time it worked but sometimes it resulted in taking too much that I can't handle and ended up delivering beyond the timeline. 
+
+	But recent years I learned how to say "yes" with some if and then so as to inform everybody what is the 
+
+
+
+What do you consider your biggest strength?
+	
+	One of my biggest strength is "Problem solving" capablities. No matter if its business interactions or leading the team or in coding, I like to solve the real world problems.
+
+	When I was working in Cognizant, I built some automation tools that saves more than half of the development time. depending on the publishing product, we take word documents and excels to create learning materials. I designed an automation tool the read the word and excel document that has to be in a pre-defined format to generate those contents. 
+
+	I presented prototypes to clients on the automation and if approved they will provide the designed defined content as requested.
+
+
+
+Have you mentored a coworker but failed to help them improve? What did you do?
+
+	At time it happended where the new hire would have been selected for a developer roles. if we happen to monitor that they are not good at problem solving, we will try to acommodate then in testing roles where you don't need problem solving techniques but good logical thinking. at some scenarios if nothing works out we will give them time to retake the case studies which we already have.
+
+	happend at time where I failed to motivate an subdued person.
+When it comes to mentoring. The mentoring which I do is explaining something that is not completely known and assisting in block situation.
+
+When it comes to block situation, I ask developer to document the block, steps they debugged and why there was no outcome because solving sitution striaght away is just temporary solution.
+
+as simple as url, component, what is expected and what is the error result. what research they made in google and links referring.
+
+
+
+When you document, you study and you get to understand about the issue and after providing so 
+
+
+I mentored people in various stacks in database designing,
+	programming development and in training application
+
+mentoring will differ in each stack.
+
+for database design, 
+
+	I ask developer to look after open source application and design database without knowing existing application. once completed I ask them to download the dump and see what they missed and what design was complicated because when it comes to database designing its all about the vast thinking which is not known. to become a best database designed, I would suggest to kill the requirement with so much of question, to kill a requirement, you should first know how that works.
+
+
+for developers
+
+	I ask the to think declarative. I use to explain the difficulties not thinking in declarative.
+
+	When even they start a development of something. I use them question on its variations to make them think in advance.
+
+	because when I was working for a leading pharma project, We will be designing learing materials and website for HCPs and Common user.
+
+	After 1 year, I can see so much of re-work. after 18 months, you can see no more than 40 components and how I wasted time not thinking declartive.
+
+-------------------------------------
+Mentoring Product Developers
+
+	I have prepared case studies in CRM, Learning Management and in Ecommerce and have pre-defined set of task for each case studies and task for communicating ecommerce with CRM.
+
+
+
+---------------------------------------------
+Comments in overview layout.
+Edit Buttons in overview layout.
+Image and Audio Files in overview.
+
+Swagger.
+
+Dependent Lookups on Multi-Select items.
+Custom Class Disabled.
+dates disabling in Date Picker.
+----------------------------------------------
+
+Yes LLyods is a renowned globally known banking company. In my first engagement in Cognizant, there was a seperate LBG account and some of first circle friends were working on the insurance sector of LGB.
+
+
+
+Yes we follow Agile methodologies for all our products. We basically has 4 SaaS products in my previous engagements and I took ownership for 2 of the products.
+
+I am part of all refinements, planning and retros.
+We use Jira to track all user requirements and tasks.
+
+
+
+
+*Customer Obsession:*
+	
+	Being an owner of startup, I worked both in Technology and in proposals. I do meet customers from techno business meets. 
+
+	I have had experiences in converting leads to customers in technology. 
+
+	Difficulties: handled ROI pressure of customers on product investments. As a tech lead, We had a road map on the product but revenue we are required to deviate it to somepath.
+	Especially when it comes to SaaS product, For potential large scale customer we do all the requirements they ask.
+
+
+
+	Went Above: One of my customers were very much impressed with the solutions we gave and invested the products which we built and took the product to next level.
+
+
+*Ownership:*
+	
+	I have been owning 2 SaaS products in the current engagement.
+
+		I am primary involved in tech enhancements and improvements but took ownership on all refinements and feature updates so as to check if the products does not deviate from the SaaS model.
+
+		All the requirements from customers are very specific and I saw the team strugging to make it generic, I took those challenges and created a module concept in the framework.
+
+		I handled the architecture of end-to-end testing that is carried out at the product level as the team stuggled to make it generic. Created an GUI to handle input and visualize the results rather than testers updating the data using editors.
+
+Invent and Simplify:
+
+
+	When I was working for different customers, I sensed some uniformities and made a research on how enterprise software solutions like SAP, Salesforce are providing software services to various range of customers. I studied various ERP providers and I proposed and built out a meta data driven framework that can drive typically most functinoalities of an ERP software.
+	
+	Invention on developer console to seggregate developer who are good at coding on one and developer who are goot at logical on one.
+
+	Invention on the meta data driven architecture and how it makes product development easy.
+
+Are Right, A Lot
+
+	Decision on meta data architecture 
+
+	Building out an existing CRM, Financial, HR and Payroll product relying only the core Farm product.
+
+	
+*Learn and Be Curious:*
+
+	Exploring the local markets
+	Don't have enough capacity to maintain the products that is built across different platforms. Studied Cross Platforms Angular, React. Re-constructed the framework with both Angular and React. With Angular, I still find difficulties in maintianing code in App. Solved it with React. 
+
+
+*Insist on the highest standards:*
+   
+
+
+
+*Earns Trust:*
+
+
+Hire and Develop the Best:
+
+	
+
+	Been a mentor for all the people who worked with me in my startup. only 1 on 3 employee will think for a common growth and rest of will think on their own growth. There are 7+ people who is travelling with me for last 7 years. 
+
+
+Think Big:
+
+
+	I was handling projects for customers in my startup. as the solutions and requirement grew, I was thinking how to created a generic framework to built out all these solutions.
+
+	Componentized the ERP and modularized everything and made it like a plug and play feature.
+
+
+Deliver Results:
+
+	1. With ecommerce business solution, 
+
+
+
+-------------------------------------
+Whitebread
+-------------------------------------
+Whitebread owns Premier Inn.
+
+Premier Inn is the UK’s biggest hotel brand, offering quality accommodation at affordable prices with over 800 hotels in great locations.
+
+Whitebreak has history with brewery industry as well.
+
+Data Engineer - .NET
+
+
+DOT NET DEVELOPER
+---------------------------------------------
+
+NTT Data - Nippon Telegraph and Telephone Corporation	
+
+Technology consulting company. Japan based. Started with Data Communication Division in 1967.
+
+NTT Data has its division in chennai. I know NTT Data since 2014
+
+REACT NATIVE DEVELOPER
+-----------------------------------------------
+AND Digital is technology service and consulting company.
+
+Case Studies
+Ordo is a groundbreaking payments service 
+
+Lookers is a car dealership group with more than 150 franchises across the UK.
+
+British Airways
+
+Premier Inn
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+I owned a agri tech SAAS product as well as the ecommerce section of Ansio platform during my initial days with Ansio.
+
+Currently I am looking after the developer console aspect of the framework as well as the modernization of the infrastructure.
+
+------------------------------------------------------------------
+
+
+
+Extensive List of Competency‐Based Behavioral Interview Questions
+Adaptability
+
+	
+Day to Day Activities:
+
+	I am currently leading a framework that is base for 3 different SaaS platform. 
+	I look after the modernization of the application
+
+
+
+Describe a major change that occurred in a job that you held. How did you adapt to this change?
+	
+	I was looking after the whole SaaS product. Since the product development is carry forwarded activities from my Startup. in Startup I used to work on all layers from development, deployment to api testing.
+
+	I was foreseeing the same here in my initial days and the management insisted me to look only after the development aspects of the product and not to worry about the infrastructure and testing part since there are team handling it. I was very difficult to transfer ownership but I realized its not possible to oversee and expertise in all areas so I decided to hand over the responsibility and made sure I was there in all their decision making approaches.
+
+
+Tell us about a situation in which you had to adjust to changes over which you had no control. How did
+you handle it?
+
+	product roadmap and discussion was help with the technical directors but the control passed to business and they were not focused on the SaaS aspects but only on the business aspects and I cannot explain the importance of SaaS and the wait to business.
+
+	why cannot convince? because they don't understand. Reference to Jack Na and Elon Musk can be explained if they ask example. Its hard to convince people who don't have idea or who are completely on different page.
+
+
+Tell us about a time that you had to adapt to a difficult situation.
+What do you do when priorities change quickly? Give one example of when this happened.
+	
+	Working on a product road map and business road map is very difficult. Product, you focus on on the features that are pre-planned but business you never know what marketing starategy they have and they will comeup with immediate requirements on the changes and will not accept the timeline which we give. In that scenario, I have to re-priorities everything and work accordingly.
+
+		Example: Sales Partner Programme, ex, if Dunzo is delivering with blocks and apparment strategy then business will ask us to implement the same in our App. , Advertising functionalities for a new marketing platform
+	
+		Subscription based for regular.
+		Shop based approach.
+		security deivery box delivery.
+
+Ambition
+Describe a project or idea that was implemented primarily because of your efforts. What was your role?
+What was the outcome?
+	
+	Meta data driven architecture which we use to create and maintain SaaS products was idea from me after I made deep analysis on the one source frappe framework and Salesfore systems. 
+
+	I studied how they are managing a vast range of customer requirements. I can to study about the meta data architecture and how you can modularize global functionalites and customer based functionalities.
+
+	With the popularity of declarative programming, we made out a framework that has components with operate based on the meta data. Component like Menu, Forms, Reports, Master Data, Dashboard, Notification, Validations, Alerts is driven by the meta data and this meta data is updatable via developer console with drag and drop kind of interaction.
+
+
+
+Describe a time when you made a suggestion to improve the work in your organization.
+	
+	While we are startup, though we used to have scrums and stuffs, we dont actually have a application to track the accountablity. I suggested to go with Jira or Micro soft teams task manager. the management agreed to go with Jira.
+
+
+
+Give an example of an important goal that you set in the past. Tell about your success in reaching it.
+
+	I set a goal to increase 5 member team to 20 member team in 2 years and I can able to accomplish that closer. I had a 15 member team before moving into Ansio.
+
+Give an example of an important goal that you set in the past. Tell about your failure in reaching it.
+
+	I targetted for 20 member team in 2 years, and 200 member team in 5 years but once it crosses 20, the team is not constant because of the growth and very difficult for us to manage both technical and business. I had no other choice to accept an offer from our customer to merge with maximum benefits.
+
+Give two examples of things you’ve done in previous jobs that demonstrate your willingness to work hard.
+	
+	Since I am looking after the mordernization of the infrastructure, Weekdays I will be working completly on the existing infrastructure and I spend some time in weekends to explore other infrastucture, used to make comparision between then, analyze the impact of the change that it may require for the organization to implement it. I explored both Angular and React. I know one of it will be waste of effort but I still preferred to spend time to identify the best.	
+
+
+How many hours a day do you put into your work? What were your study patterns at school?
+	
+	8-10 hours and 2 hours for continues improvements. Atleast in a day or two I used to ask myself on what I have learned today.
+
+
+Tell us about a time when you had to go above and beyond the call of duty in order to get a job done.
+
+	I was looking after modernization of the infrastructure and there was a time when I have to propose on the latest technology. I have to explore both Angular and React and come up with the best. I know one of the work is not accountable and I cannot ask management to invest on something that is not going to work. in those time I replicated existing framework in both Angular and React and proposed the react platform over Angular.
+
+	What was considered? Cross platform, Cross deployment of resources in both web and app, easy enhancement and maintenance, markets, future.
+
+
+Tell us about a time when a job had to be completed and you were able to focus your attention and efforts to get it done.
+
+	was working on prototypes in startup to get the business.
+	also working on infrastructure prototypes.
+
+
+Tell us about a time when a job had to be completed and you were able to focus your attention and efforts to get it done.
+
+	had complete vision on the ecommerce platform as SaaS platform but have to accomadate some sales partner integration and has no other choice to go for hard coding functionalities because the given timeline is very limited. learned to create modules to overcome it to certain extent. 
+
+
+
+
+Tell us about a time when you were particularly effective on prioritizing tasks and completing a project
+on schedule.
+
+
+
+Tell us about the last time that you undertook a project that demanded a lot of initiative.
+	
+
+Tell us how you keep your job knowledge current with the ongoing changes in the industry.
+There are times when we work without close supervision or support to get the job done. Tell us about a
+time when you found yourself in such a situation and how things turned out.
+What impact did you have in your last job?
+What is the most competitive work situation you have experienced? How did you handle it? What was
+the result?
+What is the riskiest decision you have made? What was the situation? What happened?
+What kinds of challenges did you face on your last job? Give an example of how you handled them.
+What projects have you started on your own recently? What prompted you to get started?
+What sorts of things have you done to become better qualified for your career?
+What was the best idea that you came up with in your career? How did you apply it?
+When you disagree with your manager, what do you do? Give an example.
+When you have a lot of work to do, how do you get it all done? Give an example?
+Analytical Thinking
+Describe the project or situation which best demonstrates your analytical abilities. What was your role?
+Developing and using a detailed procedure is often very important in a job. Tell about a time when you
+needed to develop and use a detailed procedure to successfully complete a project.
+Give a specific example of a time when you used good judgment and login in solving a problem.
+Give me a specific example of a time when you used good judgment and logic in solving a problem.
+Give me an example of when you took a risk to achieve a goal. What was the outcome?
+How did you go about making the changes (step by step)? Answer in depth or detail such as “What were
+you thinking at that point?” or “Tell me more about meeting with that person”, or “Lead me through
+your decision process”.
+Relate a specific instance when you found it necessary to be precise in your in order to complete the job.
+Tell us about a job or setting where great precision to detail was required to complete a task. How did
+you handle that situation?
+Tell us about a time when you had to analyze information and make a recommendation. What kind of
+thought process did you go through? What was your reasoning behind your decision?
+Tell us about your experience in past jobs that required you to be especially alert to details while doing
+the task involved.
+Building Relationships
+Give a specific example of a time when you had to address an angry customer. What was the problem
+and what was the outcome? How would you assess your role in diffusing the situation?
+It is very important to build good relationships at work but sometimes it doesn’t always work. If you can,
+tell about a time when you were not able to build a successful relationship with a difficult person.
+Tell us about a time when you built rapport quickly with someone under difficult conditions.
+What, in your opinion, are the key ingredients in guiding and maintaining successful business
+relationships? Give examples of how you made these work for you.
+Business Systems Thinking
+Describe how your position contributes to your organization’s/unit’s goals. What is the unit’s
+goals/mission?
+Tell us about a politically complex work situation in which you worked.
+Caution
+Have you ever worked in a situation where the rules and guidelines were not clear? Tell me about it.
+How did you feel about it? How did you react?
+Some people consider themselves to be “big picture people” and others are “detail oriented”. Which are
+you? Give an example of a time when you displayed this.
+Tell us me about a situation when it was important for you to pay attention to details. How did you
+handle it?
+Tell us me about a time when you demonstrated too much initiative?
+Communication
+Describe a situation in which you were able to effectively “read” another person and guide your actions
+by your understanding of their individual needs or values.
+Describe a situation when you were able to strengthen a relationship by communicating effectively.
+What made your communication effective?
+Describe a situation where you felt you had not communicated well. How did you correct the situation?
+Describe a time when you were able to effectively communicate a difficult or unpleasant idea to a
+superior.
+Describe the most significant written document, report or presentation which you had to complete.
+Give me an example of a time when you were able to successfully communicate with another person,
+even when that individual may not have personally liked you, or vice versa.
+Give me an example of a time when you were able to successfully communicate with another person,
+even when that individual may not have personally liked you.
+Have you ever had to “sell” an idea to your co‐workers or group? How did you do it? Did they “buy” it?
+Have you had to “sell” an idea to your co‐workers, classmates or group? How did you do it? Did they
+“buy” it?
+How do you keep subordinates informed about information that affects their jobs?
+How do you keep your manager informed about what is being done in your work area?
+How do you go about explaining a complex technical problem to a person who does not understand
+technical jargon? What approach do you take in communicating with people?
+What kinds of communication situations cause you difficulty? Give an example.
+Tell us about a recent successful experience in making a speech or presentation. How did you prepare?
+What obstacles did you face? How did you handle them?
+Tell us about a time when you and your current/previous supervisor disagreed but you still found a way
+to get your point across.
+Tell us about a time when you had to present complex information. How did you ensure that the other
+person understood?
+Tell us about a time when you had to use your verbal communication skills in order to get a point across
+that was important to you.
+Tell us about a time when you were particularly effective in a talk you gave or a seminar you taught.
+Tell us about an experience in which you had to speak up in order to be sure that other people knew
+what you thought or felt.
+Tell us me about a situation when you had to speak up (be assertive) in order to get a point across that
+was important to you.
+Tell us me about a time in which you had to use your written communication skills in order to get an
+important point across.
+What challenges have occurred while you were coordinating work with other units, departments,
+and/or divisions?
+What have you done to improve your verbal communication skills?
+How have you persuaded people through a document you prepared?
+What are the most challenging documents you have done? What kinds of proposals have your written?
+What kinds of writing have you done? How do you prepare written communications?
+Conflict Resolution
+Describe a time when you took personal accountability for a conflict and initiated contact with the
+individual(s) involved to explain your actions.
+Customer Orientation
+How do you handle problems with customers? Give an example.
+How do you go about establishing rapport with a customer? What have you done to gain their
+confidence? Give an example.
+What have you done to improve relations with your customers?
+Decision Making
+Discuss an important decision you have made regarding a task or project at work. What factors
+influenced your decision?
+Everyone has made some poor decisions or has done something that just did not turn out right. Has this
+happened to you? What happened?
+Give an example of a time in which you had to be relatively quick in coming to a decision.
+Give an example of a time in which you had to keep from speaking or not finish a task because you did
+not have enough information to come to a good decision. Give an example of a time when there was a
+decision to be made and procedures were not in place?
+Give an example of a time when you had to be relatively quick in coming to a decision.
+Give me an example of a time when you had to keep from speaking or making a decision because you
+did not have enough information.
+How did you go about deciding what strategy to employ when dealing with a difficult customer?
+How do you go about developing information to make a decision? Give an example.
+How do you involve your manager and/or others when you make a decision?
+How have you gone about making important decisions?
+How quickly do you make decisions? Give an example.
+In a current job task, what steps do you go through to ensure your decisions are correct/effective?
+Tell us about a time when you had to defend a decision you made even though other important people
+were opposed to your decision.
+What kind of decisions do you make rapidly? What kind takes more time? Give examples.
+What kinds of problems have you had coordinating technical projects? How did you solve t hem?
+What was your most difficult decision in the last 6 months? What made it difficult?
+When you have to make a highly technical decision, how do you go about doing it?
+Delegation
+Do you consider yourself a macro or micro manager? How do you delegate?
+How do you make the decision to delegate work?
+Tell us how you go about delegating work?
+What was the biggest mistake you have had when delegating work? The biggest success?
+Detail‐Oriented
+Describe a situation where you had the option to leave the details to others or you could take care of
+them yourself.
+Do prefer to work with the “big picture” or the “details” of a situation? Give me an example of an
+experience that illustrates your preference.
+Have the jobs you held in the past required little attention, moderate attention, or a great deal of
+attention to detail? Give me an example of a situation that illustrates this requirement.
+Tell us about a difficult experience you had in working with details.
+Tell us about a situation where attention to detail was either important or unimportant in accomplishing
+an assigned task.
+Employee Development
+Tell us about a training program that you have developed or enhanced.
+Evaluating Alternatives
+Have you ever had a situation where you had a number of alternatives to choose from? How did you go
+about choosing one?
+How did you assemble the information?
+How did you review the information? What process did you follow to reach a conclusion?
+What alternatives did you develop?
+What are some of the major decisions you have made over the past (6, 12, 18) months?
+What kinds of decisions are most difficult for you? Describe one?
+Who made the decision?
+Flexibility
+Have you ever had a subordinate whose performance was consistently marginal? What did you do?
+How have you adjusted your style when it was not meeting the objectives and/or people were not
+responding correctly?
+What do you do when you are faced with an obstacle to an important project? Give an example.
+When you have difficulty persuading someone to your point of view, what do you do? Give an example.
+Follow‐up and Control
+How did you keep track of delegated assignments?
+How do you evaluate the productivity/effectiveness of your subordinates?
+How do you get data for performance reviews?
+How do you keep track of what your subordinates are doing?
+What administrative paperwork do you have? Is it useful? Why/why not?
+Initiative
+Give me an example of when you had to go above and beyond the call of duty in order to get a job done.
+Give me examples of projects/tasks you started on your own.
+Give some instances in which you anticipated problems and were able to influence a new direction.
+How did you get work assignments at your most recent employer?
+What changes did you develop at your most recent employer?
+What kinds of things really get your excited?
+What sorts of projects did you generate that required you to go beyond your job description?
+Interpersonal Skills
+Describe a recent unpopular decision you made and what the result was.
+Describe a recent unpopular decision you made and what the result was.
+Describe a situation in which you were able to effectively “read” another person and guide your actions
+by your understanding of their needs and values.
+Tell us about the most difficult or frustrating individual that you’ve ever had to work with, and how you
+managed to work with them.
+What have you done in past situations to contribute toward a teamwork environment?
+What have you done in the past to contribute toward a teamwork environment?
+Innovation
+Can you think of a situation where innovation was required at work? What did you do in this situation?
+Describe a situation when you demonstrated initiative and took action without waiting for direction.
+What was the outcome?
+Describe a time when you came up with a creative solution/idea/project/report to a problem in your
+past work.
+Describe something that you have implemented at work. What were the steps used to implement this?
+Describe the most creative work‐related project which you have carried out.
+Give me an example of when you took a risk to achieve a goal. What was the outcome?
+Sometimes it is essential that we break out of the routine, standardized way of doing things in order to
+complete the task. Give an example of when you were able to successfully develop such a new
+approach.
+Tell us about a problem that you solved in a unique or unusual way. What was the outcome? Were you
+satisfied with it?
+Tell us about a suggestion you made to improve the way job processes/operations worked. What was
+the result?
+There are many jobs in which well‐established methods are typically followed. Give a specific example of
+a time when you tried some other method to do the job.
+There are many jobs that require creative or innovative thinking. Give an example of when you had such
+a job and how you handled it.
+What have been some of your most creative ideas?
+What innovative procedures have you developed? How did you develop them? Who was involved?
+Where did the ideas come from?
+What new or unusual ideas have you developed on your job? How did you develop them? What was the
+result? Did you implement them?
+When was the last time that you thought “outside of the box” and how did you do it?
+Integrity
+Describe a time when you were asked to keep information confidential.
+Give examples of how you have acted with integrity in your job/work relationship.
+If you can, tell about a time when your trustworthiness was challenged. How did you react/respond?
+On occasion we are confronted by dishonesty in the workplace. Tell about such an occurrence and how
+you handled it.
+Tell us about a specific time when you had to handle a tough problem which challenged fairness or
+ethnical issues.
+Trust requires personal accountability. Can you tell about a time when you chose to trust someone?
+What was the outcome?
+Introducing Change
+Have you ever had to introduce a policy change to your work group? How did you do it?
+Have you ever met resistance when implementing a new idea or policy to a work group? How did you
+deal with it? What happened?
+When is the last time you had to introduce a new idea or procedure to people on this job? How did you
+do it?
+Leadership
+Give an example of a time in which you felt you were able to build motivation in your co‐workers or
+subordinates at work.
+Give an example of your ability to build motivation in your co‐workers, classmates, and even if on a
+volunteer committee.
+Have you ever had difficulty getting others to accept your ideas? What was your approach? Did it work?
+Have you ever been a member of a group where two of the members did not work well together? What
+did you do to get them to do so?
+What is the toughest group that you have had to get cooperation from?
+What is the toughest group that you have had to get cooperation from? Describe how you handled it.
+What was the outcome?
+Listening
+Give an example of a time when you made a mistake because you did not listen well to what someone
+had to say.
+How often do you have to rely on information you have gathered from others when talking to them?
+What kinds of problems have you had? What happened?
+What do you do to show people that you are listing to them?
+When is listening important on your job? When is listening difficult?
+Motivating Others
+Have you ever had a subordinate whose work was always marginal? How did you deal with that person?
+What happened?
+How do you deal with people whose work exceeds your expectations?
+How do you get subordinates to produce at a high level? Give an example.
+How do you get subordinates to work at their peak potential? Give an example.
+How do you manage cross‐functional teams?
+Motivation
+Describe a situation when you were able to have a positive influence on the actions of others.
+Give an example of a time when you went above and beyond the call of duty.
+Give me an example of a time when you went above and beyond the call of duty.
+How would you define “success” for someone in your chosen career?
+Tell us me about an important goal that you set in the past. Were you successful? Why?
+Negotiating
+Describe the most challenging negotiation in which you were involved. What did you do? What were the
+results for you? What were the results for the other party?
+Have you ever been in a situation where you had to bargain with someone? How did you feel about
+this? What did you do? Give an example.
+How did you prepare for it?
+How did you present your position?
+How did you resolve it?
+Tell us about the last time you had to negotiate with someone.
+What was the most difficult part?
+Organizational
+Describe a time when you had to make a difficult choice between your personal and professional life.
+Give me an example of a project that best describes your organizational skills.
+How do you decide what gets top priority when scheduling your time?
+What do you do when your schedule is suddenly interrupted? Give an example.
+Performance Management
+Give an example of a time when you helped a staff member accept change and make the necessary
+adjustments to move forward. What were the change/transition skills that you used?
+Give an example of how you have been successful at empowering either a person or a group of people
+into accomplishing a task.
+How do you handle a subordinate whose work is not up to expectations?
+How do you coach a subordinate to develop a new skill?
+How do you handle performance reviews? Tell me about a difficult one.
+How often do you discuss a subordinate’s performance with him/her? Give an example.
+Tell us about a specific development plan that you created and carried out with one or more of your
+employees. What was the specific situation? What were the components of the development plan?
+What was the outcome?
+Tell us about a time when you had to take disciplinary action with someone you supervised.
+Tell us about a time when you had to tell a staff member that you were dissatisfied with his or her work.
+Tell us about a time when you had to use your authority to get something done. Where there any
+negative consequences?
+There are times when people need extra help. Give an example of when you were able to provide that
+support to a person with whom you worked.
+What have you done to develop the skills of your staff?
+When do you give positive feedback to people? Tell me about the last time you did. Give an example of
+how you handle the need for constructive criticism with a subordinate or peer.
+Personal Effectiveness
+Give an example of a situation where others were intense but you were able to maintain your
+composure.
+It is important to maintain a positive attitude at work when you have other things on your mind. Give a
+specific example of when you were able to do that.
+Keeping others informed of your progress/actions helps them feel comfortable. Tell your methods for
+keeping your supervisor advised of the status on projects.
+Tell us about a recent job or experience that you would describe as a real learning experience? What did
+you learn from the job or experience?
+Tell us about a time when you took responsibility for an error and were held personally accountable.
+Tell us about a time when your supervisor criticized your work. How did you respond?
+Tell us about some demanding situations in which you managed to remain calm and composed.
+There are times when we are placed under extreme pressure on the job. Tell about a time when you
+were under such pressure and how you handled it.
+What have you done to further your own professional development in the past 5 years?
+When you have been made aware of, or have discovered for yourself, a problem in your work
+performance, what was your course of action? Can you give an example?
+Persuasion
+Describe a situation in which you were able to positively influence the actions of others in a desired
+direction.
+Describe a situation where you were able to use persuasion to successfully convince someone to see
+things your way.
+Describe a time when you were able to convince a skeptical or resistant customer to purchase a project
+or utilize your services.
+Have you ever had to persuade a group to accept a proposal or idea? How did you go about doing it?
+What was the result?
+Have you ever had to persuade a peer or manager to accept an idea that you knew they would not like?
+Describe the resistance you met and how you overcame it.
+How do you get a peer or colleague to accept one of your ideas?
+In selling an idea, it is sometimes useful to use metaphors, analogies, or stories to make your point. Give
+a recent example of when you were able to successfully do that.
+Tell us about a time when you had to convince someone in authority about your ideas. How did it work
+out?
+Tell us about a time when you used facts and reason to persuade someone to accept your
+recommendation.
+Tell us about a time when you used your leadership ability to gain support for what initially had strong
+opposition.
+Tell us about a time when you were able to successfully influence another person.
+Planning and Organization
+Describe how you develop a project team’s goals and project plan?
+How do you schedule your time? Set priorities? How do you handle doing twenty things at once?
+What do you do when your time schedule or project plan is upset by unforeseen circumstances? Give an
+example.
+What have you done in order to be effective with your organization and planning?
+Presentation
+How do you prepare for a presentation to a group of technical experts in your field?
+How would you describe your presentation style?
+Tell us about the most effective presentation you have made. What was the topic? What made it
+difficult? How did you handle it?
+What kinds of oral presentations have you made? How did you prepare for them? What challenges did
+you have?
+Problem Solving
+Describe the most difficult working relationship you’ve had with an individual. What specific actions did
+you take to improve the relationship? What was the outcome?
+Give me an example of a situation where you had difficulties with a team member. What, if anything,
+did you do to resolve the difficulties?
+Have you ever been caught unaware by a problem or obstacles that you had not foreseen? What
+happened?
+Tell us about a time when you did something completely different from the plan and/or assignment.
+Why? What happened?
+What are some of the problems you have faced; such as between business development and project
+leaders, between one department and another, between you and your peers? How did you recognize
+that they were there?
+When was the last time something came up in a meeting that was not covered in the plan? What did
+you do? What were the results of your judgment?
+Problem Resolution
+Describe a situation where you had a conflict with another individual, and how you dealt with it. What
+was the outcome? How do you feel about it?
+Describe a time in which you were faced with problems or stresses which tested your coping skills. What
+did you do?
+Describe a time when you facilitated a creative solution to a problem between two employees.
+Give a specific example of a time when you used good judgment and logic in solving a problem.
+Give an example of a problem which you faced on any job that you have had and tell how you went
+about solving it.
+Give an example of when you “went to the source” to address a conflict. Do you feel trust levels were
+improved as a result?
+Problems occur in almost all work relationships. Describe a time when you had to cope with the
+resentment or hostility of a subordinate or co‐worker.
+Some problems require developing a unique approach. Tell about a time when you were able to develop
+a different problem‐solving approach.
+Sometimes the only way to resolve a defense or conflict is through negotiation and compromise. Tell
+about a time when you were able to resolve a difficult situation by finding some common ground.
+Sometimes we need to remain calm on the outside when we are really upset on the inside. Give an
+example of a time that this happened to you.
+Tell us about a recent success you had with an especially difficult employee/co‐worker.
+Tell us about a situation in which you had to separate the person from the issue when working to
+resolve issues.
+Tell us about a time when you identified a potential problem and resolved the situation before it
+became serious.
+There is more than one way to solve a problem. Give an example from your recent work experience that
+would illustrate this.
+Project Management
+Tell us about a time when you influenced the outcome of a project by taking a leadership role.
+Using a specific example of a project, tell how you kept those involved informed of the progress.
+Relate Well
+Describe a situation where you had to use conflict management skills.
+Describe a situation where you had to use confrontation skills.
+Give me an example of a time when a company policy or action hurt people. What, if anything, did you
+do to mitigate the negative consequences to people?
+How do you typically deal with conflict? Can you give me an example?
+Tell us about a time when you were forced to make an unpopular decision.
+What would your co‐workers (or staff) stay is the most frustrating thing about your communications
+with them?
+Removing Obstacles
+Have you ever dealt with a situation where communications were poor? Where there was a lack of
+cooperation? Lack of trust? How did you handle these situations?
+What do you do when a subordinate comes to you with a challenge?
+What have you done to help your subordinates to be more productive?
+What have you done to make sure that your subordinates can be productive? Give an example.
+Resolving Conflict
+Have you ever been in a situation where you had to settle an argument between two friends (or people
+you knew)? What did you do? What was the result?
+Have you ever had to settle conflict between two people on the job? What was the situation and what
+did you do?
+Tell us about a time when you had to help two peers settle a dispute. How did you go about identifying
+the issues? What did you do? What was the result?
+Resource Management
+Tell us about a time when you organized or planned an event that was very successful.
+Sales
+
+Describe how you prepare for a sales call for a new client.
+
+How do you go about making cold calls?
+
+How have your sales skills improved over the past three years.
+
+
+Tell us about your most difficult sales experience.
+
+
+Tell us about your sales volume over the past three years. What have you done to influence it?
+Scheduling
+
+
+Describe the most difficult scheduling problem you have faced.
+	
+
+
+	
+
+How did you assign priorities to jobs?
+How did you go about making job assignments?
+When all have been over‐loaded, how do your people meet job assignments?
+Self Assessment
+Can you recall a time when you were less than pleased with your performance?
+Describe a situation in which you were able to use persuasion to successfully convince someone to see
+things your way.
+Give me a specific occasion in which you conformed to a policy with which you did not agree.
+Give me an example of an important goal that you h ad set in the past and tell me about your success in
+reaching it.
+If there were one area you’ve always wanted to improve upon, what would that be?
+In what ways are you trying to improve yourself?
+Tell us about a time when you had to go above and beyond the call of duty in order to get a job done.
+What do you consider to be your professional strengths? Give me a specific example using this attribute
+in the workplace.
+
+proficiencies in what I do.
+
+
+What goal have you set for yourself that you have successfully achieved?
+
+	Starting a start up, Successed in first target of 4 to 15 people.
+
+
+What was the most useful criticism you ever received?
+
+	I used to work on everything and one of mentor told that I am working on everything and not attaining 100% in anything. told to look after one and just have good knowledge in others.
+
+Selecting and Developing People
+How do you coach an employee in completing a new assignment?
+	Think declarative.
+
+What have you done to develop your subordinates? Give an example.
+	I ask people to think out of their stacks and I see people succeeding in that as well.
+
+What have you done to improve the skills of your subordinates?
+   
+
+
+What was your biggest mistake in hiring someone? What happened? How did you deal with the
+situation?
+What was your biggest success in hiring someone? What did you do?
+Setting Goals
+Did you have a strategic plan? How was it developed? How did you communicate it to the rest of your
+staff?
+How do you communicate goals to subordinates? Give an example.
+How do you involve people in developing your unit’s goals? Give an example.
+What company plans have you developed? Which ones have you reached? How did you reach them?
+Which have you missed? Why did you miss them?
+What goals did you miss? Why did you miss them?
+What goals have you met? What did you do to meet them?
+What were your annual goals at your most current employer? How did you develop these goals?
+What were your long‐range plans at your most recent employer? What was our role in developing
+them?
+Setting Performance Standards
+How do you go about setting goals with subordinates? How do you involve them in this process?
+How do you let subordinates know what you expect of them?
+What performance standards do you have for your unit? How have you communicated them to your
+subordinates?
+Setting Priorities
+Have you ever been overloaded with work? How do you keep track of work so that it gets done on time?
+How do you manage your time?
+How do you schedule your time?
+When given an important assignment, how do you approach it?
+Sound Judgment
+Describe a situation when you had to exercise a significant amount of self‐control.
+Give me an example of a time in which you had to be relatively quick in coming to a decision.
+Give me an example of when you were able to meet the personal and professional demands in your life
+yet still maintained a healthy balance.
+Give me an example of when you were responsible for an error or mistake. What was the outcome?
+What, if anything, would you do differently?
+If you were interviewing for this position what would you be looking for in the applicants?
+We work with a great deal of confidential information. Describe how you would have handled sensitive
+information in a past work experience. What strategies would you utilize to maintain confidentiality
+when pressured by others?
+When have you had to produce results without sufficient guidelines? Give an example.
+Strategic Planning
+Describe what steps/methods you have used to define/identify a vision for your unit/position.
+How do you see your job relating to the overall goals of the organization?
+In your current or former position, what were your long and short‐term goals?
+Tell us about a time when you anticipated the future and made changes to current
+responsibilities/operations to meet future needs.
+Stress Management
+How did you react when faced with constant time pressure? Give an example.
+People react differently when job demands are constantly changing; how do you react?
+What kind of events cause you stress on the job?
+What was the most stressful situation you have faced? How did you deal with it?
+Teamwork
+Describe a situation in which you had to arrive at a compromise or help others to compromise. What
+was your role? What steps did you take? What was the end result?
+Describe a team experience you found disappointing. What would you have done to prevent this?
+Describe a team experience you found rewarding.
+Describe the types of teams you’ve been involved with. What were your roles?
+Describe your leadership style and give an example of a situation when you successfully led a group.
+Give an example of how you have been successful at empowering a group of people in accomplishing a
+task.
+Give an example of how you worked effectively with people to accomplish an important result.
+Have you ever been a project leader? Give examples of problems you experienced and how you reacted.
+Have you ever been in a position where you had to lead a group of peers? How did you handle it?
+Have you ever participated in a task group? What was your role? How did you contribute?
+Please give your best example of working cooperatively as a team member to accomplish an important
+goal. What was the goal or objective? To what extent did you interact with others on this project?
+Some people work best as part of a group ‐ others prefer the role of individual contributor. How would
+you describe yourself? Give an example of a situation where you felt you were most effective.
+Tell us about a time that you had to work on a team that did not get along. What happened? What role
+did you take? What was the result?
+Tell us about a work experience where you had to work closely with others. How did it go? How did you
+overcome any difficulties?
+Tell us about the most difficult challenge you faced in trying to work cooperatively with someone who
+did not share the same ideas? What was your role in achieving the work objective?
+Tell us about the most difficult situation you have had when leading a team. What happened and what
+did you do? Was it successful? Emphasize the “single” most important thing you did?
+Tell us about the most effective contribution you have made as part of a task group or special project
+team.
+Think about the times you have been a team leader. What could you have done to be more effective?
+What is the difficult part of being a member, not leader, of a team? How did you handle this?
+What role have you typically played as a member of a team? How did you interact with other members
+of the team?
+When is the last time you had a disagreement with a peer? How did you resolve the situation?
+When working on a team project have you ever had an experience where there was strong
+disagreement among team members? What did you do?
+Time Management Schedule
+Describe a situation that required you to do a number of things at the same time. How did you handle
+it? What was the result?
+How do you determine priorities in scheduling your time? Give an example.
+How do you typically plan your day to manage your time effectively?
+Of your current assignments, which do you consider to have required the greatest amount of effort with
+regard to planning/organization? How have you accomplished this assignment? How would you assess
+your effectiveness?
+Toughness
+On many occasions, managers have to make tough decisions. What was the most difficult one you have
+had to make?
+Tell us about setbacks you have faced. How did you deal with them?
+What has been your major work related disappointment? What happened and what did you do?
+What is the most competitive situation you have experienced? How did you handle it? What was the
+result?
+What was your major disappointment?
+Variety
+How many projects do you work on at once? Please describe.
+When was the last time you made a key decision on the spur of the moment? What was the reason and
+result?
+When was the last time you were in a crises situation? What was the situation? How did you react?
+Which of your jobs had the most rapid change? How did you feel about it?
+Values Diversity
+Give a specific example of how you have helped create an environment where differences are valued,
+encouraged and supported.
+Tell us about a time that you successfully adapted to a culturally different environment.
+Tell us about a time when you had to adapt to a wide variety of people by accepting/understanding their
+perspective.
+Tell us about a time when you made an intentional effort to get to know someone from another culture.
+What have you done to further your knowledge/understanding about diversity? How have you
+demonstrated your learning?
+What have you done to support diversity in your unit?
+What measures have you taken to make someone feel comfortable in an environment that was
+obviously uncomfortable with his or her presence?
+
+------------------------------------------------
+
+
+react-native init newproject --version react-native@VersionNumber
+
+permissions
+	
+	permissons still goes inside androidmanifest.xml
+
+	Info.plist will contain information about your iOS project.
+
+---------------------
+Android Unit Testing
+---------------------
+Espresso tests must be placed in the app/src/androidTest folder
+test
+	-------------------------------------
+	withText("SOMETEXT") - Searches for a view with the specified text, for example onView(withText("User")) searches for a view with the text "User".
+	withId() - Similar to withText but searches for the ID
+
+	ViewInteraction and DataInteraction allow to specify an action for test via an object of type ViewAction via the perform method. The ViewActions class provides helper methods for the most common actions, like:
+
+	ViewActions.click
+	ViewActions.typeText()
+	ViewActions.pressKey()
+	ViewActions.clearText()
+	-------------------------------------
+
+
+
+------------------------
+React Testing Library
+------------------------
+
+
+
+
+
+-----------------------
+Element Comparision
+-----------------------
+
+
+
+
+-----------------------
+Build and Deployment
+-----------------------
+About Test Flight - We use test flight to test ios app. Visibility will be by email address addition.
+
+Beta Testing - Closed user testing. only selected email id will get the beta version in the app store.
+
+Tools -> Build Signed APK.
+JKS file is need for second time to generate APK.
+
+
+AAB => Build -> Build App Bundle. 
+
+Product Flavors will be there in build.gradle.
+Update build variants 
+	cottonGuruVariant
+	cottonGuruRelease
+
+	we can use buildconfig
+
+roukassfish {
+    applicationIdSuffix ".cottonguru.fo"
+    buildConfigField("String", "SERVER_URL", "\"http://cottonguru-apis.farms.io/\"")
+    buildConfigField("String", "WEB_URL", "\"https://cottonguru.farms.io/\"")
+    buildConfigField("String", "APPLICATION_TYPE", "\"fo\"")
+    buildConfigField("String", "APPLICATION_INFO", "\"\"")
+    resValue "string", "app_name", "@string/cottongurufo"
+}
+public static String BASE_URL = BuildConfig.SERVER_URL;
+
+Failed Scenarios -> if .JKS is missing we cannot upload.
+-------------------------------------------------------------
+React Native Build
+-------------------------------------------------------------
+npx react-native run-android --variant=app1nameDebug --appId=com.app1name
+
+1. npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/
+
+2. cd android && ./gradlew assembleDebug
+3. cd android && ./gradlew assembleRelease
+
+
+
+
+
+------------------------
+Redux
+------------------------
+
+Store holds the global model
+Reducers holds the function
+Dispatch are dispatched to the reducers
+
+
+------------------------
+Routing
+------------------------
+NavigationContainer in "@react-navigation/native"
+var Stack = createNativeStackNavigator();
+
+<Stack.Navigator
+<Stack.Screen
+
+this.props.navigation.dispatch(DrawerActions.toggleDrawer());
+navigation.navigate(componentname,properties);
+
+-----------------------
+Push Notification
+-----------------------
+Firebase - Message will be pushed against device id.
+Firebase Crashlytics for analyzing the runtime error.
+SNS - 
+
+
+-----------------------
+Offline
+-----------------------
+Realm
+
+try{
+       realm = await Realm.open({path: self.formSchemaPath  ,schema: [FormSchema] });
+       formKey = String(formKey).toUpperCase().replace(new RegExp("-","igm"),"_");
+       id = id === undefined || id === null || id === ""  ?"":"_"+id;
+       localDataId = formKey + id;
+       realm.write(() => {
+    try{
+       existingObjects = (localDataId!==undefined && localDataId!==null && localDataId!=="")? realm.objects("form").filtered("id == $0",localDataId):realm.objects("form");
+       if(existingObjects!==undefined && existingObjects!==null && existingObjects.length>0){
+          realm.delete(existingObjects);
+       }else{
+          /*console.log("No existing data stored in offline");*/
+           /*console.log("No existing data");*/
+      }
+      appFormEntry = realm.create("form", {
+        id: localDataId,
+        version: "0",
+        response: JSON.stringify(appFormObjectResponse),
+        tag:"form"
+      });
+      }catch(exception){
+        console.log("Exception in setting realm appform object",exception);
+      }
+    });
+      }catch(ex){
+        console.log("Exception in saving offline form data",ex);
+        resolve(false);
+      }
+    });
+------------------------
+Libraries
+------------------------
+Realm for local storage
+Retrofit for REST Api calls
+RX for ASynchronous calls
+MaterialDesign
+
+------------------------
+Terminologies
+------------------------
+Storyboard will have all the view controller and its Segues
+Activity
+Framework
+
+
+
+-------------------
+Native Bridge
+-------------------
+
+MainApplication.java will have list of all nativebrigepackages
+(in getPackages)
+[
+ packages.add(new PolygonMappingPackage());
+ packages.add(new FingerPrintPackage());
+ packages.add(new MarketPlacePackage());
+]
+
+
+Next Native element Package will have ReactMethod annotation
+where Indent Activity will be called.
+
+this above ReactMethod will take parameters successCallback and cancelCallback with which we can send back result.
+
+In package file we will add add the module which is of type NativeModule
+
+setContentView(R.layout.activity_maps_polygon);
+--------------------------------------------------------
+
+
+/*
+
+
+
+	Screens
+
+		1. Home Page to show list of all 
+
+
+	Unit Test the following
+
+	1. Swipe Left to increment the
+
+
+
+
+	Use of utilitie
+
+		1.
+
+
+
+
+
+
+*/
